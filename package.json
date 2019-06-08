@@ -1,0 +1,11 @@
+{
+	"name": "Initiative-bot",
+	"version": "1.0.0",
+	"description": "Initiative Bot",
+	"main": "bot.js",
+	"author": "Caseysch2",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
